@@ -1,4 +1,4 @@
-## Hi there 👋
+## I like llms and building stuff (Software side)
 
 <!--
 **N1CK99925/N1CK99925** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
