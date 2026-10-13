@@ -1,4 +1,4 @@
-I like llms and cats
+I like cats
 
 <!--
 **N1CK99925/N1CK99925** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
